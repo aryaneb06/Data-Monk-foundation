@@ -1,2 +1,2 @@
 ## Ubuntu Installation Screen-shot
-![Alt text](1.png "Optional Title")
+![Alt text](1.png "Optional Title" )
